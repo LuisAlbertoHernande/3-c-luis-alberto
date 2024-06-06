@@ -1,0 +1,70 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 120vh;
+    background-color: #007c91;
+    color: #fff;
+    padding: 15px;
+    border: 8px;
+}
+.titulo{
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.subtitulo{
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.input{
+    width: 95%;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 7px;
+    border-color: #ccc;
+    border-width: 2px;
+    border-style: solid;
+}
+.boton{
+    width: 95%;
+    padding: 10px;
+    margin: 15px;
+    background-color: #4cb2c9;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.restar{
+    width: 95%;
+    padding: 10px;
+    margin: 15px;
+    background-color: #4cb2c9;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.Multiplicar{
+    width: 95%;
+    padding: 10px;
+    margin: 15px;
+    background-color: #4cb2c9;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.divicion{
+    width: 95%;
+    padding: 10px;
+    margin: 15px;
+    background-color: #4cb2c9;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
